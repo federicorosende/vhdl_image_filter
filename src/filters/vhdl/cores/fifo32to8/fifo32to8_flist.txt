@@ -1,0 +1,15 @@
+# Output products list for <fifo32to8>
+fifo32to8/doc/fifo_generator_v9_3_readme.txt
+fifo32to8/doc/fifo_generator_v9_3_vinfo.html
+fifo32to8/doc/pg057-fifo-generator.pdf
+fifo32to8/fifo_generator_v9_3_readme.txt
+fifo32to8.asy
+fifo32to8.gise
+fifo32to8.ngc
+fifo32to8.sym
+fifo32to8.v
+fifo32to8.veo
+fifo32to8.xco
+fifo32to8.xise
+fifo32to8_flist.txt
+fifo32to8_xmdf.tcl
